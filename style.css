@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(0, 170, 255);
+}
+
+#score
+{
+    font-size: 20;
+    margin-left: 600px;
+}
+
+#timer
+{
+    font-size:20;
+    margin-left: 600px;
+}
+
